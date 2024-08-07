@@ -6,6 +6,7 @@
 - [ ] Scan Selected Agents 
   -  opencv?
   - wait until others select
+  - choose based off map
 
 # Random
 
